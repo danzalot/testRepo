@@ -1,1 +1,5 @@
-public static void main
+public class Hello{
+	public static void main(String args[]){
+		return;
+	}
+}
